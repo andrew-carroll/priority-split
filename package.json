@@ -1,0 +1,16 @@
+{
+  "name": "priority-split",
+  "version": "0.0.1",
+  "description": "Splits a string into chunks of the given max length by given patterns in sequential priority.",
+  "main": "priority-split.js",
+  "repository": "https://github.com/andrew-carroll/priority-split",
+  "author": "Andrew Carroll",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "jest": "^23.1.0"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
